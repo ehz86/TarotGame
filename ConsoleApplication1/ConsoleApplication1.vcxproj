@@ -149,6 +149,46 @@
       </AdditionalUsingDirectories>
     </ClCompile>
   </ItemGroup>
+  <ItemGroup>
+    <Image Include="chariot.jpg" />
+    <Image Include="death.jpg" />
+    <Image Include="devil.jpg" />
+    <Image Include="emperor.jpg" />
+    <Image Include="empress.jpg" />
+    <Image Include="fool.jpg" />
+    <Image Include="hanged-man.jpg" />
+    <Image Include="hermit.jpg" />
+    <Image Include="hierophant.jpg" />
+    <Image Include="high-priestess.jpg" />
+    <Image Include="judgement.jpg" />
+    <Image Include="justice.jpg" />
+    <Image Include="lovers.jpg" />
+    <Image Include="magican.jpg" />
+    <Image Include="moon.jpg" />
+    <Image Include="star.jpg" />
+    <Image Include="strength.jpg" />
+    <Image Include="sun.jpg" />
+    <Image Include="temperance.jpg" />
+    <Image Include="tower.jpg" />
+    <Image Include="wheel-of-fortune.jpg" />
+    <Image Include="world.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="openal32.dll" />
+    <None Include="sfml-audio-2.dll" />
+    <None Include="sfml-audio-d-2.dll" />
+    <None Include="sfml-graphics-2.dll" />
+    <None Include="sfml-graphics-d-2.dll" />
+    <None Include="sfml-network-2.dll" />
+    <None Include="sfml-network-d-2.dll" />
+    <None Include="sfml-system-2.dll" />
+    <None Include="sfml-system-d-2.dll" />
+    <None Include="sfml-window-2.dll" />
+    <None Include="sfml-window-d-2.dll" />
+  </ItemGroup>
+  <ItemGroup>
+    <Font Include="Arial.ttf" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

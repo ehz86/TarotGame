@@ -19,4 +19,88 @@
       <Filter>Исходные файлы</Filter>
     </ClCompile>
   </ItemGroup>
+  <ItemGroup>
+    <Image Include="chariot.jpg">
+      <Filter>Файлы ресурсов</Filter>
+    </Image>
+    <Image Include="death.jpg">
+      <Filter>Файлы ресурсов</Filter>
+    </Image>
+    <Image Include="devil.jpg">
+      <Filter>Файлы ресурсов</Filter>
+    </Image>
+    <Image Include="emperor.jpg">
+      <Filter>Файлы ресурсов</Filter>
+    </Image>
+    <Image Include="fool.jpg">
+      <Filter>Файлы ресурсов</Filter>
+    </Image>
+    <Image Include="empress.jpg">
+      <Filter>Файлы ресурсов</Filter>
+    </Image>
+    <Image Include="hanged-man.jpg">
+      <Filter>Файлы ресурсов</Filter>
+    </Image>
+    <Image Include="hermit.jpg">
+      <Filter>Файлы ресурсов</Filter>
+    </Image>
+    <Image Include="hierophant.jpg">
+      <Filter>Файлы ресурсов</Filter>
+    </Image>
+    <Image Include="high-priestess.jpg">
+      <Filter>Файлы ресурсов</Filter>
+    </Image>
+    <Image Include="lovers.jpg">
+      <Filter>Файлы ресурсов</Filter>
+    </Image>
+    <Image Include="judgement.jpg">
+      <Filter>Файлы ресурсов</Filter>
+    </Image>
+    <Image Include="justice.jpg">
+      <Filter>Файлы ресурсов</Filter>
+    </Image>
+    <Image Include="magican.jpg">
+      <Filter>Файлы ресурсов</Filter>
+    </Image>
+    <Image Include="moon.jpg">
+      <Filter>Файлы ресурсов</Filter>
+    </Image>
+    <Image Include="star.jpg">
+      <Filter>Файлы ресурсов</Filter>
+    </Image>
+    <Image Include="sun.jpg">
+      <Filter>Файлы ресурсов</Filter>
+    </Image>
+    <Image Include="strength.jpg">
+      <Filter>Файлы ресурсов</Filter>
+    </Image>
+    <Image Include="temperance.jpg">
+      <Filter>Файлы ресурсов</Filter>
+    </Image>
+    <Image Include="tower.jpg">
+      <Filter>Файлы ресурсов</Filter>
+    </Image>
+    <Image Include="wheel-of-fortune.jpg">
+      <Filter>Файлы ресурсов</Filter>
+    </Image>
+    <Image Include="world.jpg">
+      <Filter>Файлы ресурсов</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="openal32.dll" />
+    <None Include="sfml-audio-2.dll" />
+    <None Include="sfml-graphics-2.dll" />
+    <None Include="sfml-audio-d-2.dll" />
+    <None Include="sfml-graphics-d-2.dll" />
+    <None Include="sfml-network-2.dll" />
+    <None Include="sfml-network-d-2.dll" />
+    <None Include="sfml-system-2.dll" />
+    <None Include="sfml-system-d-2.dll" />
+    <None Include="sfml-window-2.dll" />
+    <None Include="sfml-window-d-2.dll" />
+  </ItemGroup>
+  <ItemGroup>
+    <Font Include="Arial.ttf" />
+  </ItemGroup>
 </Project>
